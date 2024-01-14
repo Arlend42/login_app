@@ -21,10 +21,10 @@ An example of Django project with basic user functionality.
     - with a remember me checkbox (optional)
 - **Create an account**
 - **Log out**
-- Profile activation via email
-- Reset password
-- Remind a username
-- Resend an activation code
+- **Profile activation via email**
+- **Reset password**
+- **Remind a username**
+- **Resend an activation code**
 - Change password
 - Change email
 - Change profile
