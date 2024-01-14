@@ -25,8 +25,8 @@ An example of Django project with basic user functionality.
 - **Reset password**
 - **Remind a username**
 - **Resend an activation code**
-- Change password
-- Change email
+- **Change password**
+- **Change email**
 - Change profile
 - Multilingual: English, French, Russian, Simplified Chinese and Spanish
 
