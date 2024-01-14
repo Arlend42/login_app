@@ -14,13 +14,13 @@ An example of Django project with basic user functionality.
 
 ## Functionality
 
-- Log in
+- **Log in**
     - via username & password
     - via email & password
     - via email or username & password
     - with a remember me checkbox (optional)
-- Create an account
-- Log out
+- **Create an account**
+- **Log out**
 - Profile activation via email
 - Reset password
 - Remind a username
