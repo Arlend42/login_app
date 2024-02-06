@@ -4,6 +4,7 @@ An example of Django project with basic user functionality.
 
 ## Screenshots
 
+
 | Log In | Create an account | Authorized page |
 | -------|--------------|-----------------|
 | <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/create_an_account.png" width="200"> | <img src="./screenshots/authorized_page.png" width="200"> |
